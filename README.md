@@ -1,19 +1,19 @@
 # HuaweiNova2i_rne-l22_Findings
 I'm here just to document whatever I do with my old Huawei Nova 2i.
 
-# Unlocking Bootloader (NVPotato Method)
+**Unlocking Bootloader (NVPotato Method)**
 
 https://github.com/kitsuned/PotatoNV
 
-# Stock Rom
+**Stock Rom**
 
 https://xdaforums.com/t/firmware-fullota-mf-rhone-l22-c636-8-0-0-361-emui-v8-android-8-0-the-last-stock-rom.4297033/
 
-# Rooting (Magisk)
+**Rooting (Magisk)**
 
 https://github.com/topjohnwu/magisk
 
-# Flashing OpenKirin
+**Flashing OpenKirin**
 
 OpenKirin Guide
 
